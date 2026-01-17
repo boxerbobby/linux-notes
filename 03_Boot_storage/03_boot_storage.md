@@ -16,12 +16,12 @@ wichtig: lädt Kernel,
 ##KERNEL (vmlinuz)
 Herz des OS
 Treiber lädt
+
 CPU/RAM verwaltet
 Dateisysteme mountet
 Prozesse startet
 - Merke: Programme greifen auf Kernel nicht direkt Hardware
 Linux-Distribution = Linux-Kernel + Benutzerprogramme + Tools.
-
 
 ## NVRAM (Speicherchip UEFI)
 speichert Secure Boot, Boot Reihe, CSM, Fast Boot, TPM, KEYS > Secure Boot
