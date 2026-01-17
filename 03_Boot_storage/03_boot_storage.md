@@ -1,4 +1,4 @@
-## BIOS vs UEFI
+### BIOS vs UEFI
 Bios old, MBR
 UEFI neu, GPT
 startet Bootloader, Secure Boot (optional), GUI

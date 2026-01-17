@@ -1,7 +1,6 @@
-##Dateien ändern
+## Git
 cd ~/linux-notes
 cd ~/storage/shared/linux-notes ## Android/Termux
-
 → Alle folgenden Git-Befehle beziehen sich auf diesen Ordner.
 
 git status → Welche Dateien geändert, neu oder bereit für Commit sind.
