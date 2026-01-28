@@ -4,7 +4,6 @@
 Terminal = Textoberfläche | Shell = Befehlsinterpreter (meist bash)  
 - Terminal ist das Werkzeug | Shell führt Befehle aus | CLI: schneller, skriptfähig, server-tauglich  
 Merksatz: Terminal ist das Fenster – die Shell denkt für dich.
-
 ## 2. Aufbau eines Befehls
 Syntax: befehl [optionen] [argumente]  
 Bsp: ls -l /etc | cp -r dir1 dir2  

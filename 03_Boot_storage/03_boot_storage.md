@@ -4,7 +4,8 @@
 Strom → Firmware → Bootloader → Kernel → initramfs → Root → systemd → Login → Desktop  
 UEFI → GRUB → Kernel → systemd → Desktop
 
-## 1. Einschalten (Power-On)
+
+- Echtes Linux-Dateisystem wird ak## 1. Einschalten (Power-On)
 - Strom an → CPU startet im Reset-Zustand  
 - Kontrolle geht an die Firmware des Mainboards
 
@@ -49,8 +50,7 @@ Linux-Distribution = Kernel + Benutzerprogramme + Tools
 - Findet und mountet das echte Root-Dateisystem (`/`)
 - liefert dem Kernel die notwendigen Werkzeuge und Treiber, um System zu finden und zu starten
 
-## 7. Root-Dateisystem (/)
-- Echtes Linux-Dateisystem wird aktiv  
+## 7. Root-Dateisystem (/)tiv  
 - Wichtige Verzeichnisse: `/etc`, `/usr`, `/var`, `/home`
 
 ## 8. init-System (systemd)
